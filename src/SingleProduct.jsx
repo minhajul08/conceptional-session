@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 const SingleProduct = ({product,handleCart}) => {
-    console.log (handleCart)
+    // console.log (handleCart)
     return (
         <div className="my-3 shadow-lg rounded-lg">
             <div className='card  text-center space-y-3 p-4'>
